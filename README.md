@@ -10,5 +10,6 @@
 - 7 - Aplique um estilo inline no body de todas as páginas que fique padrão.
 - 8 - Aplique estilização de alinhamento centralizado para todos os títulos existentes, Ex h1,h2 etc;
 - 9 - Altera a cor de fundo do Header e a borda.
+- 10 - Leitura e estudos da pagina 13 até 45
 ```
 TESTE
